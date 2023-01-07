@@ -1,0 +1,20 @@
+@font-face {
+    font-family:yekan;
+    src: url(../fonts/Yekan.ttf);
+}
+@font-face {
+    font-family: iran;
+    src: url(../fonts/iran.ttf);
+}
+*{
+    direction: rtl;
+    font-family: yekan;
+    box-sizing: border-box;
+}
+body{
+    font-size: 16px;
+    margin: 0px auto;
+}
+a{
+    text-decoration: none;
+}
